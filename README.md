@@ -2,6 +2,8 @@
 
 CODIGOS INICIAIS DO HTML
 
+#
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -40,6 +42,8 @@ CODIGOS INICIAIS DO HTML
 #
 
 CODIGOS INICIAIS DO CSS
+
+#
 
 ```css
 *,
